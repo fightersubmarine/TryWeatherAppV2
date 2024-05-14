@@ -16,3 +16,6 @@ Use:
     <img src="imageForGitHub/1image.png" width="220" height="460">
     <img src="imageForGitHub/2image.png" width="220" height="460">
 </div>
+
+
+//ToDo: search query validation, query logic improvement

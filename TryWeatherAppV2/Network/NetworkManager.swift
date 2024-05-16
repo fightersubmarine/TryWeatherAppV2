@@ -16,7 +16,6 @@ final class NetworkManager: NSObject {
     // MARK: - Properties
     
     private let locationManager = CLLocationManager()
-    private var sessionManager: Session?
     private let weatherDataRelay = BehaviorRelay<WeatherResponse?>(value: nil)
     var weatherDataObservable: Observable<WeatherResponse?> {
         return weatherDataRelay.asObservable()

@@ -4,7 +4,6 @@ Use:
 1. MVVM
 2. UIKit
 3. UserDefaults
-4. TabBar
 5. SnapKit
 6. Alamofire
 7. RxSwift
